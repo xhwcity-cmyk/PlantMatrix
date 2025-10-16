@@ -1,5 +1,4 @@
-# PlantMatrix
-# 物种数据整理工具
+# PlantMatrix 物种数据整理工具
 
 ## 功能
 这个专门为Excel格式设计的工具具有以下特点：
